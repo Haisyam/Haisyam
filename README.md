@@ -9,8 +9,8 @@ I am a student majoring in Informatics Engineering (IF) at Majalengka University
 
 ## 💻 Technical Skills:
 
-- **Frontend Development:** React, Laravel, TailwindCSS, MySql
-- **Tools and Design:** VSCode, Git, Figma, Canva
+- **Frontend Development:** CSS
+- **Tools and Design:** VSCode
 
 <!-- snake graph -->
 <div align="center">
