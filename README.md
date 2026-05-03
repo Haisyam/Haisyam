@@ -12,13 +12,6 @@ I am a student majoring in Informatics Engineering (IF) at Majalengka University
 - **Frontend Development:** CSS
 - **Tools and Design:** VSCode
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @zakirkun" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=61570975&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 <!-- snake graph -->
 <div align="center">
   <picture>
@@ -28,5 +21,17 @@ I am a student majoring in Informatics Engineering (IF) at Majalengka University
   </picture>
 </div>
 <br>
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haisyam&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<br>
+<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=12960671&activity=active&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
+    <img alt="Active trends of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
+  </picture>
+</a>
+<br>
