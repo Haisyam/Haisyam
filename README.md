@@ -3,9 +3,10 @@
 # Hi 👋! I'm Haisyam
 
 I am a student majoring in Informatics Engineering (IF) at Majalengka University. I have a strong interest in technology and always want to keep up with the latest developments in the field. My background is in web programming, exploring various new applications and platforms, and I focus on developing my skills in this area.
+
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdkhrzmi)
+<a href="https://instagram.com/wildannzm_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## 💻 Technical Skills:
 
