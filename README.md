@@ -12,6 +12,9 @@ I am a student majoring in Informatics Engineering (IF) at Majalengka University
 - **Frontend Development:** React
 - **Tools and Design:** VSCode, Figma
 
+## 🪄 My Activity:
+![](https://github-profile-trophy.vercel.app/?username=haisyam&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 <!-- snake graph -->
 <div align="center">
   <picture>
