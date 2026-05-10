@@ -26,10 +26,12 @@ I am a student majoring in Informatics Engineering (IF) at Majalengka University
     <img src="https://github.com/Haisyam/Haisyam/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </div>
-<br>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=81277845" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=81277845&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Haisyam" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=81277845&image_size=auto&color_scheme=light" width="auto" height="auto">
-  </picture>
-</a>
+
+<div align="center">
+<a href="https://github.com/haisyam">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haisyam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haisyam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haisyam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haisyam&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haisyam&theme=2077" height="180em" />
+</div>
